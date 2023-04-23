@@ -9,7 +9,7 @@ import Equipo from './components/Equipo/index.js';
 import Footer from './components/Footer/index.jsx';
 
 function App() {
-  const [mostrarFormulario,actualizarMostrar]=useState(true);
+  const [mostrarFormulario,actualizarMostrar]=useState(false);
   const [colaboradores,setColaboradores]=useState([
     {
       id:uuid(),

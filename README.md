@@ -1,3 +1,9 @@
+# Este es un proyecto que realice durante el curso de react 
+
+Se trata de una pagina que crea colaboradores y equipo para cada colaborador.
+utilce react, hooks "useState".
+flexbox - css es reposive para dispotivos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
